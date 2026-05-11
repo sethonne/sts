@@ -100,7 +100,7 @@ h1 { font-size: 5.5rem !important; line-height: 1.05 !important; font-weight: 80
 
 <div class="grid grid-cols-3 gap-5 mt-10">
 
-<div v-click class="card">
+<div class="card">
 <div class="flex items-center gap-2 mb-4">
 <div class="mono text-xs accent">01</div>
 <div class="flex-1 h-px bg-[#a78bfa] opacity-30"></div>
@@ -110,7 +110,7 @@ h1 { font-size: 5.5rem !important; line-height: 1.05 !important; font-weight: 80
 <div class="text-xs muted leading-relaxed mt-3">Constitutional and legal foundation for Philippine S&T.</div>
 </div>
 
-<div v-click class="card">
+<div class="card">
 <div class="flex items-center gap-2 mb-4">
 <div class="mono text-xs accent">02</div>
 <div class="flex-1 h-px bg-[#a78bfa] opacity-30"></div>
@@ -120,7 +120,7 @@ h1 { font-size: 5.5rem !important; line-height: 1.05 !important; font-weight: 80
 <div class="text-xs muted leading-relaxed mt-3">Research institutions and the gap between labs and farms.</div>
 </div>
 
-<div v-click class="card">
+<div class="card">
 <div class="flex items-center gap-2 mb-4">
 <div class="mono text-xs accent">03</div>
 <div class="flex-1 h-px bg-[#a78bfa] opacity-30"></div>
@@ -146,25 +146,25 @@ h1 { font-size: 3.25rem !important; line-height: 1.15 !important; font-weight: 8
 
 <div class="grid grid-cols-4 gap-4 mt-10">
 
-<div v-click class="card">
+<div class="card">
 <div class="mono text-xs accent mb-2">PRE-COLONIAL</div>
 <div class="div-line mb-3"></div>
 <div class="text-lg leading-relaxed muted">Farming, boat-making, pottery, weaponry, writing, and reading existed before contact.</div>
 </div>
 
-<div v-click class="card">
+<div class="card">
 <div class="mono text-xs accent mb-2">SPANISH ERA</div>
 <div class="div-line mb-3"></div>
 <div class="text-lg leading-relaxed muted">Technology redirected to serve the needs of religious orders.</div>
 </div>
 
-<div v-click class="card">
+<div class="card">
 <div class="mono text-xs accent mb-2">AMERICAN ERA</div>
 <div class="div-line mb-3"></div>
 <div class="text-lg leading-relaxed muted">Automobiles, television, radio — Western tech permeates society.</div>
 </div>
 
-<div v-click class="card">
+<div class="card">
 <div class="mono text-xs accent mb-2">POST-1946</div>
 <div class="div-line mb-3"></div>
 <div class="text-lg leading-relaxed muted">Dependence on Western tech persists — even as local invention continues.</div>
@@ -172,7 +172,7 @@ h1 { font-size: 3.25rem !important; line-height: 1.15 !important; font-weight: 8
 
 </div>
 
-<div v-click class="mt-8 pl-4 border-l-2 max-w-3xl" style="border-color:#a78bfa">
+<div class="mt-8 pl-4 border-l-2 max-w-3xl" style="border-color:#a78bfa">
 <div class="text-sm italic muted">Today's policy, agriculture, and industry all inherit this dependency.</div>
 </div>
 
@@ -224,23 +224,23 @@ Created the <span class="text-white font-semibold">Department of Science & Techn
 <div class="mono text-xs muted tracking-widest mb-3">— THE STATE MUST SUPPORT</div>
 
 <div class="space-y-2">
-<div v-click class="card flex items-center gap-4" style="padding: 0.6rem 1rem;">
+<div class="card flex items-center gap-4" style="padding: 0.6rem 1rem;">
 <div class="mono text-xs accent">01</div>
 <div class="text-base">R&D, invention, innovation</div>
 </div>
-<div v-click class="card flex items-center gap-4" style="padding: 0.6rem 1rem;">
+<div class="card flex items-center gap-4" style="padding: 0.6rem 1rem;">
 <div class="mono text-xs accent">02</div>
 <div class="text-base">S&T education, training, and services</div>
 </div>
-<div v-click class="card flex items-center gap-4" style="padding: 0.6rem 1rem;">
+<div class="card flex items-center gap-4" style="padding: 0.6rem 1rem;">
 <div class="mono text-xs accent">03</div>
 <div class="text-base">Scholarships and grants-in-aid</div>
 </div>
-<div v-click class="card flex items-center gap-4" style="padding: 0.6rem 1rem;">
+<div class="card flex items-center gap-4" style="padding: 0.6rem 1rem;">
 <div class="mono text-xs accent">04</div>
 <div class="text-base">Private groups, LGUs, community-based S&T</div>
 </div>
-<div v-click class="card flex items-center gap-4" style="padding: 0.6rem 1rem;">
+<div class="card flex items-center gap-4" style="padding: 0.6rem 1rem;">
 <div class="mono text-xs accent">05</div>
 <div class="text-base">IP and creations of scientists and inventors</div>
 </div>
@@ -269,7 +269,7 @@ h1 { font-size: 3rem !important; line-height: 1.2 !important; font-weight: 800 !
 
 <div class="space-y-4">
 
-<div v-click class="card">
+<div class="card">
 <div class="flex items-baseline gap-3 mb-2">
 <div class="mono text-xl font-bold accent">01</div>
 <div class="mono text-xs font-bold tracking-wide">SOCIO-ECONOMIC DEVELOPMENT</div>
@@ -279,7 +279,7 @@ Programs delivered through S&T and innovation — especially for the poor, vulne
 </div>
 </div>
 
-<div v-click class="card">
+<div class="card">
 <div class="flex items-baseline gap-3 mb-2">
 <div class="mono text-xl font-bold accent">02</div>
 <div class="mono text-xs font-bold tracking-wide">DISASTER-RESILIENT COMMUNITIES</div>
@@ -302,7 +302,7 @@ Climate-resilient infrastructure powered by meteorological, hydrological, and ge
 
 <div class="grid grid-cols-3 gap-4 mt-8">
 
-<div v-click class="card">
+<div class="card">
 <div class="flex items-center gap-2 mb-4">
 <div class="mono text-xs accent">KRA / 01</div>
 <div class="flex-1 accent-line"></div>
@@ -311,7 +311,7 @@ Climate-resilient infrastructure powered by meteorological, hydrological, and ge
 <div class="text-sm muted leading-relaxed">Empowerment of the poor and vulnerable.</div>
 </div>
 
-<div v-click class="card">
+<div class="card">
 <div class="flex items-center gap-2 mb-4">
 <div class="mono text-xs accent">KRA / 02</div>
 <div class="flex-1 accent-line"></div>
@@ -320,7 +320,7 @@ Climate-resilient infrastructure powered by meteorological, hydrological, and ge
 <div class="text-sm muted leading-relaxed">Rapid, inclusive, sustained economic growth.</div>
 </div>
 
-<div v-click class="card">
+<div class="card">
 <div class="flex items-center gap-2 mb-4">
 <div class="mono text-xs accent">KRA / 03</div>
 <div class="flex-1 accent-line"></div>
@@ -331,7 +331,7 @@ Climate-resilient infrastructure powered by meteorological, hydrological, and ge
 
 </div>
 
-<div v-click class="mt-8 border-l-2 pl-4 max-w-4xl" style="border-color:#a78bfa">
+<div class="mt-8 border-l-2 pl-4 max-w-4xl" style="border-color:#a78bfa">
 <div class="mono text-xs accent tracking-widest mb-1">MANDATORY INTEGRATION</div>
 <div class="text-sm muted leading-relaxed">
 Any DOST-funded proposal must integrate at least one of: <span class="text-white">poverty alleviation</span>, <span class="text-white">climate change</span>, <span class="text-white">countryside development</span>, <span class="text-white">food and nutrition security</span>, <span class="text-white">biodiversity conservation</span>, or <span class="text-white">sustainable development</span>.
@@ -350,48 +350,48 @@ h1 { font-size: 3rem !important; line-height: 1.2 !important; font-weight: 800 !
 
 <div class="grid grid-cols-4 gap-3 mt-8">
 
-<div v-click class="card">
+<div class="card">
 <div class="mono text-xs accent mb-2">01</div>
 <div class="mono text-xs font-bold tracking-wide">FOOD SECURITY</div>
 </div>
 
-<div v-click class="card">
+<div class="card">
 <div class="mono text-xs accent mb-2">02</div>
 <div class="mono text-xs font-bold tracking-wide">DISASTER RISK</div>
 </div>
 
-<div v-click class="card">
+<div class="card">
 <div class="mono text-xs accent mb-2">03</div>
 <div class="mono text-xs font-bold tracking-wide">HUMAN NUTRITION</div>
 </div>
 
-<div v-click class="card">
+<div class="card">
 <div class="mono text-xs accent mb-2">04</div>
 <div class="mono text-xs font-bold tracking-wide">SME SUPPORT</div>
 </div>
 
-<div v-click class="card">
+<div class="card">
 <div class="mono text-xs accent mb-2">05</div>
 <div class="mono text-xs font-bold tracking-wide">AGRIBUSINESS</div>
 </div>
 
-<div v-click class="card">
+<div class="card">
 <div class="mono text-xs accent mb-2">06</div>
 <div class="mono text-xs font-bold tracking-wide">MATERIALS SCIENCE</div>
 </div>
 
-<div v-click class="card">
+<div class="card">
 <div class="mono text-xs accent mb-2">07</div>
 <div class="mono text-xs font-bold tracking-wide">NANOTECHNOLOGY</div>
 </div>
 
-<div v-click class="card-accent flex items-end">
+<div class="card-accent flex items-end">
 <div class="mono text-xs tracking-widest">SEE → DOST.GOV.PH</div>
 </div>
 
 </div>
 
-<div v-click class="mt-8 mono text-xs muted tracking-wide">
+<div class="mt-8 mono text-xs muted tracking-wide">
 SOURCE / 2015 DOST PERFORMANCE REPORT
 </div>
 
@@ -409,15 +409,15 @@ h1 { font-size: 3rem !important; line-height: 1.2 !important; font-weight: 800 !
 
 <div class="space-y-4 max-w-xl">
 
-<div v-click class="text-lg leading-relaxed muted">
+<div class="text-lg leading-relaxed muted">
 <span class="text-white font-semibold">Taiwan. Singapore. South Korea. Thailand. Malaysia.</span> All enjoy higher per capita incomes — built on economic independence and stronger S&T capacity.
 </div>
 
-<div v-click class="text-lg leading-relaxed muted">
+<div class="text-lg leading-relaxed muted">
 S&T must be fast-tracked to lift Filipinos out of poverty, particularly in the countryside.
 </div>
 
-<div v-click class="card">
+<div class="card">
 <div class="mono text-sm accent mb-2 tracking-widest">EMPLOYMENT PATTERN</div>
 <div class="text-sm muted leading-relaxed">
 Government is the <span class="text-white font-semibold">single biggest employer</span> of S&T graduates — because R&D requires huge capital and tolerates high risk.
@@ -454,19 +454,19 @@ Government is the <span class="text-white font-semibold">single biggest employer
 
 <div class="col-span-7 space-y-4">
 
-<div v-click class="text-lg leading-relaxed">
+<div class="text-lg leading-relaxed">
 The technology to mass-print driver's licenses is <span class="accent font-semibold">decades mature</span>.
 </div>
 
-<div v-click class="text-lg leading-relaxed muted">
+<div class="text-lg leading-relaxed muted">
 Yet legal battles between competing firms — and between government agencies — combined with court intervention, delayed adoption for years.
 </div>
 
-<div v-click class="text-lg leading-relaxed muted">
+<div class="text-lg leading-relaxed muted">
 The public was inconvenienced over a problem with a known technical solution.
 </div>
 
-<div v-click class="card border-l-2" style="border-left-color:#a78bfa">
+<div class="card border-l-2" style="border-left-color:#a78bfa">
 <div class="text-base italic leading-relaxed">
 "Laws should not stifle, but should encourage [technology's] use for the common good."
 </div>
@@ -488,7 +488,7 @@ h1 { font-size: 2.75rem !important; line-height: 1.2 !important; font-weight: 80
 
 <div class="space-y-3 mt-8">
 
-<div v-click class="card grid grid-cols-12 gap-6 items-start">
+<div class="card grid grid-cols-12 gap-6 items-start">
 <div class="col-span-3">
 <div class="mono num-xl accent" style="font-size: 1.85rem;">RA 10844</div>
 <div class="mono text-xs muted mt-1 tracking-widest">MAY 23 · 2016</div>
@@ -501,7 +501,7 @@ Created the DICT. Priorities: National Broadband Plan, free Wi-Fi in public plac
 </div>
 </div>
 
-<div v-click class="card grid grid-cols-12 gap-6 items-start">
+<div class="card grid grid-cols-12 gap-6 items-start">
 <div class="col-span-3">
 <div class="mono num-xl accent" style="font-size: 1.85rem;">RA 10055</div>
 <div class="mono text-xs muted mt-1 tracking-widest">MAR 23 · 2010</div>
@@ -514,7 +514,7 @@ Facilitates transfer and commercialization of IP and tech from government-funded
 </div>
 </div>
 
-<div v-click class="card grid grid-cols-12 gap-6 items-start">
+<div class="card grid grid-cols-12 gap-6 items-start">
 <div class="col-span-3">
 <div class="mono num-xl accent" style="font-size: 1.85rem;">RA 9513</div>
 <div class="mono text-xs muted mt-1 tracking-widest">OCT 8 · 2008</div>
@@ -548,15 +548,15 @@ h1 { font-size: 3rem !important; line-height: 1.2 !important; font-weight: 800 !
 
 <div class="space-y-4 max-w-xl">
 
-<div v-click class="text-lg leading-relaxed muted">
+<div class="text-lg leading-relaxed muted">
 Local and provincial governments sign <span class="text-white font-semibold">Memoranda of Agreement</span> with universities — drawing on academic expertise.
 </div>
 
-<div v-click class="text-lg leading-relaxed muted">
+<div class="text-lg leading-relaxed muted">
 Universities provide expertise, continuing education, knowledge, and training — including <span class="text-white">graduate degrees</span> and <span class="text-white">accredited certificates</span>.
 </div>
 
-<div v-click class="card border-l-2" style="border-left-color:#a78bfa">
+<div class="card border-l-2" style="border-left-color:#a78bfa">
 <div class="text-xs italic muted">Better-qualified personnel = stronger local capacity to apply S&T outside the capital.</div>
 </div>
 
@@ -573,31 +573,31 @@ Universities provide expertise, continuing education, knowledge, and training �
 
 <div class="grid grid-cols-5 gap-3 mt-10">
 
-<div v-click class="card">
+<div class="card">
 <div class="mono num-xl accent mb-3" style="font-size: 2.75rem;">01</div>
 <div class="mono text-xs font-bold tracking-wide mb-2">BUDGET</div>
 <div class="text-sm muted leading-relaxed">Increase the annual DOST budget.</div>
 </div>
 
-<div v-click class="card">
+<div class="card">
 <div class="mono num-xl accent mb-3" style="font-size: 2.75rem;">02</div>
 <div class="mono text-xs font-bold tracking-wide mb-2">PRIORITIZE</div>
 <div class="text-sm muted leading-relaxed">Fund research with direct welfare impact.</div>
 </div>
 
-<div v-click class="card">
+<div class="card">
 <div class="mono num-xl accent mb-3" style="font-size: 2.75rem;">03</div>
 <div class="mono text-xs font-bold tracking-wide mb-2">MANDATE</div>
 <div class="text-sm muted leading-relaxed">R&D allocations across all agencies.</div>
 </div>
 
-<div v-click class="card">
+<div class="card">
 <div class="mono num-xl accent mb-3" style="font-size: 2.75rem;">04</div>
 <div class="mono text-xs font-bold tracking-wide mb-2">HIRE</div>
 <div class="text-sm muted leading-relaxed">More S&T professionals in government.</div>
 </div>
 
-<div v-click class="card">
+<div class="card">
 <div class="mono num-xl accent mb-3" style="font-size: 2.75rem;">05</div>
 <div class="mono text-xs font-bold tracking-wide mb-2">EXPAND</div>
 <div class="text-sm muted leading-relaxed">Specialized S&T centers nationwide.</div>
@@ -645,15 +645,15 @@ Why a rice-producing country ended up importing rice from its neighbors.
 
 <div class="space-y-4 max-w-xl">
 
-<div v-click class="text-lg leading-relaxed muted">
+<div class="text-lg leading-relaxed muted">
 Agriculture has fed every growing population. Globally it has evolved from manual to mechanized systems.
 </div>
 
-<div v-click class="text-lg leading-relaxed">
+<div class="text-lg leading-relaxed">
 Yet <span class="text-white font-semibold">most Philippine farmers still rely on non-mechanized tools</span> for land prep and farm work.
 </div>
 
-<div v-click class="card">
+<div class="card">
 <div class="mono text-sm accent mb-3 tracking-widest">PSA · 2015</div>
 <div class="flex items-baseline gap-6">
 <div>
@@ -680,7 +680,7 @@ Yet <span class="text-white font-semibold">most Philippine farmers still rely on
 
 <div class="grid grid-cols-3 gap-4 mt-8">
 
-<div v-click class="card">
+<div class="card">
 <div class="mono text-sm accent mb-2 tracking-widest">CROPS</div>
 <div class="div-line mb-4"></div>
 <h3 class="mono font-bold mb-2" style="font-size: 2.25rem;">PHILRICE</h3>
@@ -688,7 +688,7 @@ Yet <span class="text-white font-semibold">most Philippine farmers still rely on
 <div class="mono text-xs muted tracking-widest">LEAD AGENCY</div>
 </div>
 
-<div v-click class="card">
+<div class="card">
 <div class="mono text-sm accent mb-2 tracking-widest">LIVESTOCK</div>
 <div class="div-line mb-4"></div>
 <h3 class="mono font-bold leading-tight mb-2" style="font-size: 1.9rem; line-height:1.2;">CARABAO<br/>CENTER</h3>
@@ -696,7 +696,7 @@ Yet <span class="text-white font-semibold">most Philippine farmers still rely on
 <div class="mono text-xs muted tracking-widest">SPECIALIZED</div>
 </div>
 
-<div v-click class="card">
+<div class="card">
 <div class="mono text-sm accent mb-2 tracking-widest">COORDINATION</div>
 <div class="div-line mb-4"></div>
 <h3 class="mono font-bold mb-2" style="font-size: 2.25rem;">PCAARRD</h3>
@@ -718,7 +718,7 @@ h1 { font-size: 3rem !important; line-height: 1.2 !important; font-weight: 800 !
 
 <div class="grid grid-cols-2 gap-6 mt-10">
 
-<div v-click class="card" style="padding: 2rem;">
+<div class="card" style="padding: 2rem;">
 <div class="mono text-sm accent mb-2 tracking-widest">PUBLIC SECTOR</div>
 <div class="mono num-xl leading-none mb-3" style="font-size: 6.5rem; line-height:0.95;">80<span style="font-size:2.5rem">%+</span></div>
 <div class="text-sm muted leading-relaxed">
@@ -726,7 +726,7 @@ Of agricultural research is done by <span class="text-white font-semibold">gover
 </div>
 </div>
 
-<div v-click class="card" style="padding: 2rem;">
+<div class="card" style="padding: 2rem;">
 <div class="mono text-sm accent mb-2 tracking-widest">PRIVATE SECTOR</div>
 <div class="mono num-xl leading-none mb-3 accent" style="font-size: 6.5rem; line-height:0.95;">18<span style="font-size:2.5rem">%</span></div>
 <div class="text-sm muted leading-relaxed">
@@ -750,15 +750,15 @@ h1 { font-size: 3rem !important; line-height: 1.2 !important; font-weight: 800 !
 
 <div class="space-y-4 max-w-xl">
 
-<div v-click class="text-lg leading-relaxed muted">
+<div class="text-lg leading-relaxed muted">
 The Philippines hosts the <span class="text-white font-semibold">International Rice Research Institute</span> in Laguna — established as a global hub for rice science.
 </div>
 
-<div v-click class="text-lg leading-relaxed muted">
+<div class="text-lg leading-relaxed muted">
 In the <span class="accent font-semibold">1970s</span>, Vietnamese and Thai scholars came to study there.
 </div>
 
-<div v-click class="card border-l-2" style="border-left-color:#a78bfa">
+<div class="card border-l-2" style="border-left-color:#a78bfa">
 <div class="text-base italic">Today, the Philippines imports rice from those same Asian countries.</div>
 </div>
 
@@ -801,23 +801,23 @@ Created by <span class="text-white font-semibold">Executive Order 116</span>, si
 <div class="mono text-xs muted mb-3 tracking-widest">— FIVE STRATEGIC THRUSTS</div>
 
 <div class="space-y-2">
-<div v-click class="card flex items-center gap-4" style="padding: 0.6rem 1rem;">
+<div class="card flex items-center gap-4" style="padding: 0.6rem 1rem;">
 <div class="mono text-xs accent">01</div>
 <div class="mono text-xs font-bold tracking-wide">SUSTAINABLE FOOD SECURITY</div>
 </div>
-<div v-click class="card flex items-center gap-4" style="padding: 0.6rem 1rem;">
+<div class="card flex items-center gap-4" style="padding: 0.6rem 1rem;">
 <div class="mono text-xs accent">02</div>
 <div class="mono text-xs font-bold tracking-wide">POVERTY ALLEVIATION</div>
 </div>
-<div v-click class="card flex items-center gap-4" style="padding: 0.6rem 1rem;">
+<div class="card flex items-center gap-4" style="padding: 0.6rem 1rem;">
 <div class="mono text-xs accent">03</div>
 <div class="mono text-xs font-bold tracking-wide">PEOPLE EMPOWERMENT</div>
 </div>
-<div v-click class="card flex items-center gap-4" style="padding: 0.6rem 1rem;">
+<div class="card flex items-center gap-4" style="padding: 0.6rem 1rem;">
 <div class="mono text-xs accent">04</div>
 <div class="mono text-xs font-bold tracking-wide">AGRICULTURAL PRODUCTIVITY</div>
 </div>
-<div v-click class="card flex items-center gap-4" style="padding: 0.6rem 1rem;">
+<div class="card flex items-center gap-4" style="padding: 0.6rem 1rem;">
 <div class="mono text-xs accent">05</div>
 <div class="mono text-xs font-bold tracking-wide">COMPETITIVE AGRIBUSINESS</div>
 </div>
@@ -845,15 +845,15 @@ h1 { font-size: 3rem !important; line-height: 1.2 !important; font-weight: 800 !
 
 <div class="space-y-4 max-w-xl">
 
-<div v-click class="text-lg leading-relaxed muted">
+<div class="text-lg leading-relaxed muted">
 Strong R&D infrastructure has not translated into strong farm-level adoption.
 </div>
 
-<div v-click class="text-lg leading-relaxed">
+<div class="text-lg leading-relaxed">
 The <span class="text-white font-semibold">top-down approach</span> produces outputs that sit on shelves — never responsive to farmers' actual needs.
 </div>
 
-<div v-click class="card">
+<div class="card">
 <div class="mono text-sm accent mb-2 tracking-widest">USC CEBU CORN STUDY</div>
 <div class="text-sm muted leading-relaxed">
 USC research found most corn farmers still rely on <span class="text-white">manual technologies</span> across land prep, production, harvesting, and post-harvest.
@@ -875,15 +875,15 @@ USC research found most corn farmers still rely on <span class="text-white">manu
 
 <div class="space-y-4 max-w-xl">
 
-<div v-click class="text-lg leading-relaxed muted">
+<div class="text-lg leading-relaxed muted">
 Agriculture is reframed as one of the country's <span class="text-white font-semibold">major growth drivers</span> — if stimulated by technology.
 </div>
 
-<div v-click class="text-lg leading-relaxed muted">
+<div class="text-lg leading-relaxed muted">
 With the right investment, tech can deliver food security, access to seedling varieties, and soil typing.
 </div>
 
-<div v-click class="card border-l-2" style="border-left-color:#a78bfa">
+<div class="card border-l-2" style="border-left-color:#a78bfa">
 <div class="text-sm italic muted leading-relaxed">
 Climate change is projected to reduce global agricultural output while demand rises. Mechanization stops being optional — it becomes adaptation.
 </div>
@@ -928,25 +928,25 @@ Manufacturing, robotics, and the Philippines' R&D investment gap.
 
 <div class="grid grid-cols-4 gap-3 mt-8">
 
-<div v-click class="card">
+<div class="card">
 <div class="mono num-xl accent mb-3" style="font-size: 3.25rem;">01</div>
 <div class="mono text-xs font-bold tracking-wide mb-2">NEW TOOLS</div>
 <div class="text-sm muted leading-relaxed">Introduction of new tools and techniques for production tasks.</div>
 </div>
 
-<div v-click class="card">
+<div class="card">
 <div class="mono num-xl accent mb-3" style="font-size: 3.25rem;">02</div>
 <div class="mono text-xs font-bold tracking-wide mb-2">MECHANIZATION</div>
 <div class="text-sm muted leading-relaxed">Mechanization of the production process itself.</div>
 </div>
 
-<div v-click class="card">
+<div class="card">
 <div class="mono num-xl accent mb-3" style="font-size: 3.25rem;">03</div>
 <div class="mono text-xs font-bold tracking-wide mb-2">APPLICATION</div>
 <div class="text-sm muted leading-relaxed">Applying new scientific ideas and concepts to production.</div>
 </div>
 
-<div v-click class="card">
+<div class="card">
 <div class="mono num-xl accent mb-3" style="font-size: 3.25rem;">04</div>
 <div class="mono text-xs font-bold tracking-wide mb-2">EFFICIENCY</div>
 <div class="text-sm muted leading-relaxed">Tools and techniques that increase task efficiency.</div>
@@ -966,7 +966,7 @@ h1 { font-size: 2.75rem !important; line-height: 1.2 !important; font-weight: 80
 
 <div class="grid grid-cols-3 gap-3 mt-8">
 
-<div v-click class="card">
+<div class="card">
 <div class="flex items-center justify-between mb-2">
 <div class="mono text-base font-bold">UNITED STATES</div>
 <div class="mono text-xs accent">/01</div>
@@ -975,7 +975,7 @@ h1 { font-size: 2.75rem !important; line-height: 1.2 !important; font-weight: 80
 <div class="text-sm muted leading-relaxed">Most capital-intensive.</div>
 </div>
 
-<div v-click class="card">
+<div class="card">
 <div class="flex items-center justify-between mb-2">
 <div class="mono text-base font-bold">JAPAN</div>
 <div class="mono text-xs accent">/02</div>
@@ -984,7 +984,7 @@ h1 { font-size: 2.75rem !important; line-height: 1.2 !important; font-weight: 80
 <div class="text-sm muted leading-relaxed">Highest robots-per-population ratio.</div>
 </div>
 
-<div v-click class="card">
+<div class="card">
 <div class="flex items-center justify-between mb-2">
 <div class="mono text-base font-bold">W. EUROPE</div>
 <div class="mono text-xs accent">/03</div>
@@ -993,7 +993,7 @@ h1 { font-size: 2.75rem !important; line-height: 1.2 !important; font-weight: 80
 <div class="text-sm muted leading-relaxed">Stresses innovation.</div>
 </div>
 
-<div v-click class="card">
+<div class="card">
 <div class="flex items-center justify-between mb-2">
 <div class="mono text-base font-bold">SOUTH KOREA</div>
 <div class="mono text-xs accent">/04</div>
@@ -1002,7 +1002,7 @@ h1 { font-size: 2.75rem !important; line-height: 1.2 !important; font-weight: 80
 <div class="text-sm muted leading-relaxed">Key rival in production.</div>
 </div>
 
-<div v-click class="card">
+<div class="card">
 <div class="flex items-center justify-between mb-2">
 <div class="mono text-base font-bold">EUROPE</div>
 <div class="mono text-xs accent">/05</div>
@@ -1011,7 +1011,7 @@ h1 { font-size: 2.75rem !important; line-height: 1.2 !important; font-weight: 80
 <div class="text-sm muted leading-relaxed">Broad industrial base.</div>
 </div>
 
-<div v-click class="card-accent">
+<div class="card-accent">
 <div class="flex items-center justify-between mb-2">
 <div class="mono text-base font-bold">CHINA</div>
 <div class="mono text-xs">/06</div>
@@ -1034,19 +1034,19 @@ h1 { font-size: 2.75rem !important; line-height: 1.2 !important; font-weight: 80
 
 <div class="grid grid-cols-3 gap-4 mt-8">
 
-<div v-click class="card" style="padding: 1.75rem;">
+<div class="card" style="padding: 1.75rem;">
 <div class="mono text-sm accent mb-2 tracking-widest">INDUSTRIAL SECTOR</div>
 <div class="mono num-xl leading-none mb-2" style="font-size: 5.5rem; line-height:0.95;">50<span style="font-size:2rem">%+</span></div>
 <div class="text-sm muted leading-relaxed">Manufacturing's share of the industrial sector.</div>
 </div>
 
-<div v-click class="card-accent" style="padding: 1.75rem;">
+<div class="card-accent" style="padding: 1.75rem;">
 <div class="mono text-xs mb-2 tracking-widest">NATIONAL GDP</div>
 <div class="mono num-xl leading-none mb-2" style="font-size: 5.5rem; line-height:0.95;">25<span style="font-size:2rem">%</span></div>
 <div class="text-xs leading-relaxed">Share of national Gross Domestic Product.</div>
 </div>
 
-<div v-click class="card" style="padding: 1.75rem;">
+<div class="card" style="padding: 1.75rem;">
 <div class="mono text-sm accent mb-2 tracking-widest">TOTAL EXPORTS · 2013</div>
 <div class="mono num-xl leading-none mb-2" style="font-size: 5.5rem; line-height:0.95;">41<span style="font-size:2rem">%</span></div>
 <div class="text-sm muted leading-relaxed">Of total exports came from manufacturing.</div>
@@ -1054,7 +1054,7 @@ h1 { font-size: 2.75rem !important; line-height: 1.2 !important; font-weight: 80
 
 </div>
 
-<div v-click class="mt-6 max-w-3xl text-xs muted leading-relaxed">
+<div class="mt-6 max-w-3xl text-xs muted leading-relaxed">
 Manufacturing produces higher employment, income, and output multipliers than agricultural and service sectors — and drives stronger productivity, technological development, and innovation.
 </div>
 
@@ -1073,18 +1073,18 @@ h1 { font-size: 2.75rem !important; line-height: 1.2 !important; font-weight: 80
 <div class="text-xs muted mb-4">Other major Philippine manufacturing sectors</div>
 
 <div class="grid grid-cols-3 gap-2 max-w-2xl">
-<div v-click class="card mono text-xs tracking-wide text-center" style="padding: 0.5rem 0.75rem;">AUTO PARTS</div>
-<div v-click class="card mono text-xs tracking-wide text-center" style="padding: 0.5rem 0.75rem;">AUTOMOTIVE</div>
-<div v-click class="card mono text-xs tracking-wide text-center" style="padding: 0.5rem 0.75rem;">CHEMICALS</div>
-<div v-click class="card mono text-xs tracking-wide text-center" style="padding: 0.5rem 0.75rem;">BIODIESEL</div>
-<div v-click class="card mono text-xs tracking-wide text-center" style="padding: 0.5rem 0.75rem;">AEROSPACE</div>
-<div v-click class="card mono text-xs tracking-wide text-center" style="padding: 0.5rem 0.75rem;">CERAMICS</div>
-<div v-click class="card mono text-xs tracking-wide text-center" style="padding: 0.5rem 0.75rem;">COPPER</div>
-<div v-click class="card mono text-xs tracking-wide text-center" style="padding: 0.5rem 0.75rem;">FURNITURE</div>
-<div v-click class="card mono text-xs tracking-wide text-center" style="padding: 0.5rem 0.75rem;">IRON & STEEL</div>
-<div v-click class="card mono text-xs tracking-wide text-center" style="padding: 0.5rem 0.75rem;">METALCASTING</div>
-<div v-click class="card mono text-xs tracking-wide text-center" style="padding: 0.5rem 0.75rem;">PETROCHEMICAL</div>
-<div v-click class="card mono text-xs tracking-wide text-center" style="padding: 0.5rem 0.75rem;">PLASTICS</div>
+<div class="card mono text-xs tracking-wide text-center" style="padding: 0.5rem 0.75rem;">AUTO PARTS</div>
+<div class="card mono text-xs tracking-wide text-center" style="padding: 0.5rem 0.75rem;">AUTOMOTIVE</div>
+<div class="card mono text-xs tracking-wide text-center" style="padding: 0.5rem 0.75rem;">CHEMICALS</div>
+<div class="card mono text-xs tracking-wide text-center" style="padding: 0.5rem 0.75rem;">BIODIESEL</div>
+<div class="card mono text-xs tracking-wide text-center" style="padding: 0.5rem 0.75rem;">AEROSPACE</div>
+<div class="card mono text-xs tracking-wide text-center" style="padding: 0.5rem 0.75rem;">CERAMICS</div>
+<div class="card mono text-xs tracking-wide text-center" style="padding: 0.5rem 0.75rem;">COPPER</div>
+<div class="card mono text-xs tracking-wide text-center" style="padding: 0.5rem 0.75rem;">FURNITURE</div>
+<div class="card mono text-xs tracking-wide text-center" style="padding: 0.5rem 0.75rem;">IRON & STEEL</div>
+<div class="card mono text-xs tracking-wide text-center" style="padding: 0.5rem 0.75rem;">METALCASTING</div>
+<div class="card mono text-xs tracking-wide text-center" style="padding: 0.5rem 0.75rem;">PETROCHEMICAL</div>
+<div class="card mono text-xs tracking-wide text-center" style="padding: 0.5rem 0.75rem;">PLASTICS</div>
 </div>
 </div>
 
@@ -1110,17 +1110,17 @@ h1 { font-size: 2.75rem !important; line-height: 1.2 !important; font-weight: 80
 
 <div class="space-y-4 max-w-xl">
 
-<div v-click class="text-lg leading-relaxed muted">
+<div class="text-lg leading-relaxed muted">
 The Duterte program expanded roads, transportation networks, bridges, and economic zones to support industry.
 </div>
 
-<div v-click class="card border-l-2" style="border-left-color:#a78bfa">
+<div class="card border-l-2" style="border-left-color:#a78bfa">
 <div class="text-base italic leading-relaxed">
 The textbook cautions: this <span class="text-white not-italic font-semibold">may not be enough</span> to spur further growth — given the global surge in robotics in highly industrialized nations.
 </div>
 </div>
 
-<div v-click class="text-sm muted leading-relaxed">
+<div class="text-sm muted leading-relaxed">
 Infrastructure is necessary. <span class="accent font-semibold">It is no longer sufficient.</span>
 </div>
 
@@ -1143,7 +1143,7 @@ Infrastructure is necessary. <span class="accent font-semibold">It is no longer 
 
 <div class="space-y-2.5">
 
-<div v-click class="flex items-center gap-4">
+<div class="flex items-center gap-4">
 <div class="w-28 text-right mono text-sm tracking-wide">MALAYSIA</div>
 <div class="flex-1 bar">
 <div class="bar-fill" style="width: 100%; background:#a78bfa"></div>
@@ -1151,7 +1151,7 @@ Infrastructure is necessary. <span class="accent font-semibold">It is no longer 
 </div>
 </div>
 
-<div v-click class="flex items-center gap-4">
+<div class="flex items-center gap-4">
 <div class="w-28 text-right mono text-sm tracking-wide">INDIA</div>
 <div class="flex-1 bar">
 <div class="bar-fill" style="width: 75%; background:#8b5cf6"></div>
@@ -1159,7 +1159,7 @@ Infrastructure is necessary. <span class="accent font-semibold">It is no longer 
 </div>
 </div>
 
-<div v-click class="flex items-center gap-4">
+<div class="flex items-center gap-4">
 <div class="w-28 text-right mono text-sm tracking-wide">BULGARIA</div>
 <div class="flex-1 bar">
 <div class="bar-fill" style="width: 58%; background:#7c3aed"></div>
@@ -1167,7 +1167,7 @@ Infrastructure is necessary. <span class="accent font-semibold">It is no longer 
 </div>
 </div>
 
-<div v-click class="flex items-center gap-4">
+<div class="flex items-center gap-4">
 <div class="w-28 text-right mono text-sm tracking-wide">CHILE</div>
 <div class="flex-1 bar">
 <div class="bar-fill" style="width: 34%; background:#6d28d9"></div>
@@ -1175,7 +1175,7 @@ Infrastructure is necessary. <span class="accent font-semibold">It is no longer 
 </div>
 </div>
 
-<div v-click class="flex items-center gap-4">
+<div class="flex items-center gap-4">
 <div class="w-28 text-right mono text-sm tracking-wide">PAKISTAN</div>
 <div class="flex-1 bar">
 <div class="bar-fill" style="width: 26%; background:#5b21b6"></div>
@@ -1183,7 +1183,7 @@ Infrastructure is necessary. <span class="accent font-semibold">It is no longer 
 </div>
 </div>
 
-<div v-click class="flex items-center gap-4">
+<div class="flex items-center gap-4">
 <div class="w-28 text-right mono text-sm tracking-wide">VIETNAM</div>
 <div class="flex-1 bar">
 <div class="bar-fill" style="width: 19%; background:#4c1d95"></div>
@@ -1191,7 +1191,7 @@ Infrastructure is necessary. <span class="accent font-semibold">It is no longer 
 </div>
 </div>
 
-<div v-click class="flex items-center gap-4 pt-2">
+<div class="flex items-center gap-4 pt-2">
 <div class="w-28 text-right mono text-sm font-bold accent tracking-wide">PHILIPPINES</div>
 <div class="flex-1 bar" style="height: 30px; border: 1px solid #a78bfa;">
 <div class="bar-fill" style="width: 12%; background:#ef4444"></div>
@@ -1201,7 +1201,7 @@ Infrastructure is necessary. <span class="accent font-semibold">It is no longer 
 
 </div>
 
-<div v-click class="mt-6 max-w-3xl text-xs muted italic leading-relaxed">
+<div class="mt-6 max-w-3xl text-xs muted italic leading-relaxed">
 The Philippines invests less of its GDP in R&D than every comparable Global South economy in the chapter.
 </div>
 
@@ -1217,7 +1217,7 @@ h1 { font-size: 2.75rem !important; line-height: 1.2 !important; font-weight: 80
 
 <div class="grid grid-cols-2 gap-5 mt-8">
 
-<div v-click class="card">
+<div class="card">
 <div class="mono text-xs mb-3 tracking-widest" style="color:#ef4444">— STOP</div>
 <div class="space-y-2">
 <div class="text-base">Talking about creativity without funding it.</div>
@@ -1228,7 +1228,7 @@ h1 { font-size: 2.75rem !important; line-height: 1.2 !important; font-weight: 80
 </div>
 </div>
 
-<div v-click class="card border" style="border-color:#a78bfa">
+<div class="card border" style="border-color:#a78bfa">
 <div class="mono text-sm accent mb-3 tracking-widest">— START</div>
 <div class="space-y-2">
 <div class="text-base font-semibold">Transitioning to innovation in actual terms.</div>
@@ -1268,37 +1268,37 @@ What sections 5.1, 5.2, and 5.3 reveal — together.
 
 <div class="grid grid-cols-3 gap-3 mt-8">
 
-<div v-click class="card">
+<div class="card">
 <div class="mono num-xl accent mb-2" style="font-size: 2.25rem;">01</div>
 <div class="mono text-xs font-bold tracking-wide mb-1">DEPENDENCY</div>
 <div class="text-sm muted leading-relaxed">Foreign technology dominates frames, inputs, and ownership.</div>
 </div>
 
-<div v-click class="card">
+<div class="card">
 <div class="mono num-xl accent mb-2" style="font-size: 2.25rem;">02</div>
 <div class="mono text-xs font-bold tracking-wide mb-1">UNDERINVESTMENT</div>
 <div class="text-sm muted leading-relaxed">Government leads spending; private R&D is thin.</div>
 </div>
 
-<div v-click class="card">
+<div class="card">
 <div class="mono num-xl accent mb-2" style="font-size: 2.25rem;">03</div>
 <div class="mono text-xs font-bold tracking-wide mb-1">ADOPTION GAP</div>
 <div class="text-sm muted leading-relaxed">Strong research often fails to reach farmers and industries.</div>
 </div>
 
-<div v-click class="card">
+<div class="card">
 <div class="mono num-xl accent mb-2" style="font-size: 2.25rem;">04</div>
 <div class="mono text-xs font-bold tracking-wide mb-1">BUREAUCRACY</div>
 <div class="text-sm muted leading-relaxed">Even mature tech stalls inside government processes.</div>
 </div>
 
-<div v-click class="card">
+<div class="card">
 <div class="mono num-xl accent mb-2" style="font-size: 2.25rem;">05</div>
 <div class="mono text-xs font-bold tracking-wide mb-1">LEGAL SCAFFOLDING</div>
 <div class="text-sm muted leading-relaxed">The laws exist; operational delivery lags behind.</div>
 </div>
 
-<div v-click class="card">
+<div class="card">
 <div class="mono num-xl accent mb-2" style="font-size: 2.25rem;">06</div>
 <div class="mono text-xs font-bold tracking-wide mb-1">FORWARD PRESSURE</div>
 <div class="text-sm muted leading-relaxed">Climate change and robotics raise the cost of inaction.</div>
@@ -1318,42 +1318,42 @@ h1 { font-size: 2.75rem !important; line-height: 1.2 !important; font-weight: 80
 
 <div class="grid grid-cols-2 gap-x-10 gap-y-2 max-w-5xl mt-8">
 
-<div v-click class="flex items-center gap-4 py-2 border-b border-[#1f1f1f]">
+<div class="flex items-center gap-4 py-2 border-b border-[#1f1f1f]">
 <div class="mono text-xs accent w-6">01</div>
 <div class="text-base">Increase DOST and agency R&D budgets</div>
 </div>
 
-<div v-click class="flex items-center gap-4 py-2 border-b border-[#1f1f1f]">
+<div class="flex items-center gap-4 py-2 border-b border-[#1f1f1f]">
 <div class="mono text-xs accent w-6">02</div>
 <div class="text-base">Prioritize welfare-impact research</div>
 </div>
 
-<div v-click class="flex items-center gap-4 py-2 border-b border-[#1f1f1f]">
+<div class="flex items-center gap-4 py-2 border-b border-[#1f1f1f]">
 <div class="mono text-xs accent w-6">03</div>
 <div class="text-base">Hire more S&T professionals in government</div>
 </div>
 
-<div v-click class="flex items-center gap-4 py-2 border-b border-[#1f1f1f]">
+<div class="flex items-center gap-4 py-2 border-b border-[#1f1f1f]">
 <div class="mono text-xs accent w-6">04</div>
 <div class="text-base">Target-based S&T centers nationwide</div>
 </div>
 
-<div v-click class="flex items-center gap-4 py-2 border-b border-[#1f1f1f]">
+<div class="flex items-center gap-4 py-2 border-b border-[#1f1f1f]">
 <div class="mono text-xs accent w-6">05</div>
 <div class="text-base">Shift agricultural R&D to participatory models</div>
 </div>
 
-<div v-click class="flex items-center gap-4 py-2 border-b border-[#1f1f1f]">
+<div class="flex items-center gap-4 py-2 border-b border-[#1f1f1f]">
 <div class="mono text-xs accent w-6">06</div>
 <div class="text-base">From infrastructure-led to innovation-led growth</div>
 </div>
 
-<div v-click class="flex items-center gap-4 py-2 border-b border-[#1f1f1f]">
+<div class="flex items-center gap-4 py-2 border-b border-[#1f1f1f]">
 <div class="mono text-xs accent w-6">07</div>
 <div class="text-base">Leverage RA 10055 to commercialize research</div>
 </div>
 
-<div v-click class="flex items-center gap-4 py-2 border-b border-[#1f1f1f]">
+<div class="flex items-center gap-4 py-2 border-b border-[#1f1f1f]">
 <div class="mono text-xs accent w-6">08</div>
 <div class="text-base">Expand LGU–university MOAs</div>
 </div>
