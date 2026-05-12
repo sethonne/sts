@@ -1154,56 +1154,56 @@ Infrastructure is necessary. <span class="accent font-semibold">It is no longer 
 <div class="w-28 text-right mono text-sm tracking-wide">MALAYSIA</div>
 <div class="flex-1 bar">
 <div class="bar-fill" style="width: 100%; background:#a78bfa"></div>
-<div class="absolute top-0 right-3 h-full flex items-center text-sm text-black mono font-bold">1.13%</div>
 </div>
+<div class="w-16 mono text-sm font-bold text-right">1.13%</div>
 </div>
 
 <div class="flex items-center gap-4">
 <div class="w-28 text-right mono text-sm tracking-wide">INDIA</div>
 <div class="flex-1 bar">
 <div class="bar-fill" style="width: 75%; background:#8b5cf6"></div>
-<div class="absolute top-0 left-[76%] h-full flex items-center text-sm mono ml-2">0.85%</div>
 </div>
+<div class="w-16 mono text-sm text-right">0.85%</div>
 </div>
 
 <div class="flex items-center gap-4">
 <div class="w-28 text-right mono text-sm tracking-wide">BULGARIA</div>
 <div class="flex-1 bar">
 <div class="bar-fill" style="width: 58%; background:#7c3aed"></div>
-<div class="absolute top-0 left-[59%] h-full flex items-center text-sm mono ml-2">0.65%</div>
 </div>
+<div class="w-16 mono text-sm text-right">0.65%</div>
 </div>
 
 <div class="flex items-center gap-4">
 <div class="w-28 text-right mono text-sm tracking-wide">CHILE</div>
 <div class="flex-1 bar">
 <div class="bar-fill" style="width: 34%; background:#6d28d9"></div>
-<div class="absolute top-0 left-[35%] h-full flex items-center text-sm mono ml-2">0.38%</div>
 </div>
+<div class="w-16 mono text-sm text-right">0.38%</div>
 </div>
 
 <div class="flex items-center gap-4">
 <div class="w-28 text-right mono text-sm tracking-wide">PAKISTAN</div>
 <div class="flex-1 bar">
 <div class="bar-fill" style="width: 26%; background:#5b21b6"></div>
-<div class="absolute top-0 left-[27%] h-full flex items-center text-sm mono ml-2">0.29%</div>
 </div>
+<div class="w-16 mono text-sm text-right">0.29%</div>
 </div>
 
 <div class="flex items-center gap-4">
 <div class="w-28 text-right mono text-sm tracking-wide">VIETNAM</div>
 <div class="flex-1 bar">
 <div class="bar-fill" style="width: 19%; background:#4c1d95"></div>
-<div class="absolute top-0 left-[20%] h-full flex items-center text-sm mono ml-2">0.21%</div>
 </div>
+<div class="w-16 mono text-sm text-right">0.21%</div>
 </div>
 
 <div class="flex items-center gap-4 pt-2">
 <div class="w-28 text-right mono text-sm font-bold accent tracking-wide">PHILIPPINES</div>
-<div class="flex-1 bar flex items-center" style="height: 30px; border: 1px solid #a78bfa;">
+<div class="flex-1 bar" style="height: 30px; border: 1px solid #a78bfa;">
 <div class="bar-fill h-full" style="width: 12%; background:#ef4444"></div>
-<div class="text-sm mono ml-2 font-bold">0.14%</div>
 </div>
+<div class="w-16 mono text-sm font-bold accent text-right">0.14%</div>
 </div>
 
 </div>
