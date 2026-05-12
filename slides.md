@@ -194,7 +194,7 @@ The constitutional, legal, and institutional scaffolding behind Philippine scien
 </div>
 
 <div class="relative h-[26rem] rounded overflow-hidden">
-<img src="https://images.unsplash.com/photo-1589829085413-56de8ae18c73?w=1200&q=80" class="w-full h-full object-cover opacity-50"/>
+<img src="https://images.unsplash.com/photo-1505664194779-8beaceb93744?w=1200&q=80" class="w-full h-full object-cover opacity-50"/>
 <div class="absolute inset-0" style="background: linear-gradient(to left, transparent, #0a0a0a 80%)"></div>
 <div class="absolute bottom-4 right-4 mono text-xs accent tracking-widest">01 / 03</div>
 </div>
@@ -486,42 +486,42 @@ h1 { font-size: 2.75rem !important; line-height: 1.2 !important; font-weight: 80
 
 # <span class="mono">THREE <span class="accent">REPUBLIC ACTS</span></span>
 
-<div class="space-y-3 mt-8">
+<div class="space-y-5 mt-12">
 
-<div class="card grid grid-cols-12 gap-6 items-start">
+<div class="card grid grid-cols-12 gap-6 items-center" style="padding: 1.9rem 2.2rem;">
 <div class="col-span-3">
-<div class="mono num-xl accent" style="font-size: 1.85rem;">RA 10844</div>
-<div class="mono text-xs muted mt-1 tracking-widest">MAY 23 · 2016</div>
+<div class="mono num-xl accent" style="font-size: 2.4rem;">RA 10844</div>
+<div class="mono text-xs muted mt-2 tracking-widest">MAY 23 · 2016</div>
 </div>
 <div class="col-span-9">
-<div class="mono text-xs font-bold tracking-wide mb-1">DEPARTMENT OF ICT ACT</div>
-<div class="text-sm muted leading-relaxed">
+<div class="mono text-sm font-bold tracking-wide mb-2">DEPARTMENT OF ICT ACT</div>
+<div class="text-base muted leading-relaxed">
 Created the DICT. Priorities: National Broadband Plan, free Wi-Fi in public places, national ICT portal.
 </div>
 </div>
 </div>
 
-<div class="card grid grid-cols-12 gap-6 items-start">
+<div class="card grid grid-cols-12 gap-6 items-center" style="padding: 1.9rem 2.2rem;">
 <div class="col-span-3">
-<div class="mono num-xl accent" style="font-size: 1.85rem;">RA 10055</div>
-<div class="mono text-xs muted mt-1 tracking-widest">MAR 23 · 2010</div>
+<div class="mono num-xl accent" style="font-size: 2.4rem;">RA 10055</div>
+<div class="mono text-xs muted mt-2 tracking-widest">MAR 23 · 2010</div>
 </div>
 <div class="col-span-9">
-<div class="mono text-xs font-bold tracking-wide mb-1">TECHNOLOGY TRANSFER ACT</div>
-<div class="text-sm muted leading-relaxed">
+<div class="mono text-sm font-bold tracking-wide mb-2">TECHNOLOGY TRANSFER ACT</div>
+<div class="text-base muted leading-relaxed">
 Facilitates transfer and commercialization of IP and tech from government-funded R&D.
 </div>
 </div>
 </div>
 
-<div class="card grid grid-cols-12 gap-6 items-start">
+<div class="card grid grid-cols-12 gap-6 items-center" style="padding: 1.9rem 2.2rem;">
 <div class="col-span-3">
-<div class="mono num-xl accent" style="font-size: 1.85rem;">RA 9513</div>
-<div class="mono text-xs muted mt-1 tracking-widest">OCT 8 · 2008</div>
+<div class="mono num-xl accent" style="font-size: 2.4rem;">RA 9513</div>
+<div class="mono text-xs muted mt-2 tracking-widest">OCT 8 · 2008</div>
 </div>
 <div class="col-span-9">
-<div class="mono text-xs font-bold tracking-wide mb-1">RENEWABLE ENERGY ACT</div>
-<div class="text-sm muted leading-relaxed">
+<div class="mono text-sm font-bold tracking-wide mb-2">RENEWABLE ENERGY ACT</div>
+<div class="text-base muted leading-relaxed">
 Framework for accelerated development of renewable energy and a strategic utilization plan.
 </div>
 </div>
@@ -538,7 +538,7 @@ h1 { font-size: 3rem !important; line-height: 1.2 !important; font-weight: 800 !
 <div class="grid grid-cols-12 gap-8 h-full items-center">
 
 <div class="col-span-5 relative h-[26rem] rounded overflow-hidden">
-<img src="https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&q=80" class="w-full h-full object-cover opacity-40"/>
+<img src="https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?w=1200&q=80" class="w-full h-full object-cover opacity-40"/>
 <div class="absolute inset-0" style="background: linear-gradient(to right, transparent, #0a0a0a 90%)"></div>
 </div>
 
@@ -571,38 +571,45 @@ Universities provide expertise, continuing education, knowledge, and training �
 
 # <span class="mono">FIVE ACTIONS <span class="accent">/</span> FORWARD.</span>
 
-<div class="grid grid-cols-5 gap-3 mt-10">
+<div class="grid grid-cols-5 gap-3 mt-12">
 
-<div class="card">
-<div class="mono num-xl accent mb-3" style="font-size: 2.75rem;">01</div>
-<div class="mono text-xs font-bold tracking-wide mb-2">BUDGET</div>
+<div class="card flex flex-col" style="padding: 2rem 1.5rem; min-height: 16rem;">
+<div class="mono num-xl accent mb-5" style="font-size: 3.25rem;">01</div>
+<div class="mono text-sm font-bold tracking-wide mb-3">BUDGET</div>
 <div class="text-sm muted leading-relaxed">Increase the annual DOST budget.</div>
 </div>
 
-<div class="card">
-<div class="mono num-xl accent mb-3" style="font-size: 2.75rem;">02</div>
-<div class="mono text-xs font-bold tracking-wide mb-2">PRIORITIZE</div>
+<div class="card flex flex-col" style="padding: 2rem 1.5rem; min-height: 16rem;">
+<div class="mono num-xl accent mb-5" style="font-size: 3.25rem;">02</div>
+<div class="mono text-sm font-bold tracking-wide mb-3">PRIORITIZE</div>
 <div class="text-sm muted leading-relaxed">Fund research with direct welfare impact.</div>
 </div>
 
-<div class="card">
-<div class="mono num-xl accent mb-3" style="font-size: 2.75rem;">03</div>
-<div class="mono text-xs font-bold tracking-wide mb-2">MANDATE</div>
+<div class="card flex flex-col" style="padding: 2rem 1.5rem; min-height: 16rem;">
+<div class="mono num-xl accent mb-5" style="font-size: 3.25rem;">03</div>
+<div class="mono text-sm font-bold tracking-wide mb-3">MANDATE</div>
 <div class="text-sm muted leading-relaxed">R&D allocations across all agencies.</div>
 </div>
 
-<div class="card">
-<div class="mono num-xl accent mb-3" style="font-size: 2.75rem;">04</div>
-<div class="mono text-xs font-bold tracking-wide mb-2">HIRE</div>
+<div class="card flex flex-col" style="padding: 2rem 1.5rem; min-height: 16rem;">
+<div class="mono num-xl accent mb-5" style="font-size: 3.25rem;">04</div>
+<div class="mono text-sm font-bold tracking-wide mb-3">HIRE</div>
 <div class="text-sm muted leading-relaxed">More S&T professionals in government.</div>
 </div>
 
-<div class="card">
-<div class="mono num-xl accent mb-3" style="font-size: 2.75rem;">05</div>
-<div class="mono text-xs font-bold tracking-wide mb-2">EXPAND</div>
+<div class="card flex flex-col" style="padding: 2rem 1.5rem; min-height: 16rem;">
+<div class="mono num-xl accent mb-5" style="font-size: 3.25rem;">05</div>
+<div class="mono text-sm font-bold tracking-wide mb-3">EXPAND</div>
 <div class="text-sm muted leading-relaxed">Specialized S&T centers nationwide.</div>
 </div>
 
+</div>
+
+<div class="mt-10 pl-4 border-l-2 max-w-4xl" style="border-color:#a78bfa">
+<div class="mono text-xs accent tracking-widest mb-1">FRAME</div>
+<div class="text-sm muted leading-relaxed">
+Budget, focus, mandate, talent, and reach — each action compounds the others. Strengthen one alone, the system stays brittle.
+</div>
 </div>
 
 <style>
@@ -635,7 +642,7 @@ Why a rice-producing country ended up importing rice from its neighbors.
 <div class="grid grid-cols-12 gap-8 h-full items-center">
 
 <div class="col-span-5 relative h-[26rem] rounded overflow-hidden">
-<img src="https://images.unsplash.com/photo-1530507629858-e3759c1c8af6?w=1200&q=80" class="w-full h-full object-cover opacity-40"/>
+<img src="https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=1200&q=80" class="w-full h-full object-cover opacity-40"/>
 <div class="absolute inset-0" style="background: linear-gradient(to right, transparent, #0a0a0a 90%)"></div>
 </div>
 
@@ -1193,9 +1200,9 @@ Infrastructure is necessary. <span class="accent font-semibold">It is no longer 
 
 <div class="flex items-center gap-4 pt-2">
 <div class="w-28 text-right mono text-sm font-bold accent tracking-wide">PHILIPPINES</div>
-<div class="flex-1 bar" style="height: 30px; border: 1px solid #a78bfa;">
-<div class="bar-fill" style="width: 12%; background:#ef4444"></div>
-<div class="absolute top-0 left-[13%] h-full flex items-center text-sm mono ml-2 font-bold">0.14%</div>
+<div class="flex-1 bar flex items-center" style="height: 30px; border: 1px solid #a78bfa;">
+<div class="bar-fill h-full" style="width: 12%; background:#ef4444"></div>
+<div class="text-sm mono ml-2 font-bold">0.14%</div>
 </div>
 </div>
 
@@ -1390,6 +1397,7 @@ class: text-center
 ---
 
 <div class="flex items-center gap-6 justify-center mb-10">
+<div class="w-32 h-px" style="background: linear-gradient(to right, transparent, #a78bfa);"></div>
 <div class="mono text-sm accent">END</div>
 <div class="w-32 accent-line"></div>
 </div>
